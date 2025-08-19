@@ -35,7 +35,7 @@ Este proyecto está publicado en: https://github.com/AlfoVar/prueba-jikkosoft.gi
     ```bash
     node testTwoSum.js
 
-# Deberías ver:
+## Deberías ver:
 
  Iniciando pruebas de twoSum...
  Todas las pruebas pasaron
@@ -44,7 +44,7 @@ Este proyecto está publicado en: https://github.com/AlfoVar/prueba-jikkosoft.gi
     ```bash
     node library.js
 
-# Deberías ver:
+## Deberías ver:
 
 Deberías ver mensajes de registro de libros, préstamos, etc.
 
