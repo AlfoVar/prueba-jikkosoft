@@ -15,11 +15,11 @@ Proyecto realizado con Node.js para demostrar conocimientos en diseño de base d
    ```bash
    npm install
 
-2. Instalar dependencias (si las hubiera):
+2. Ejecutar pruebas de twoSum:
    ```bash
    node testTwoSum.js
 
-3. Instalar dependencias (si las hubiera):
+3. Ejecutar el sistema de biblioteca:
    ```bash
    node library.js
 
@@ -35,18 +35,18 @@ Este proyecto está publicado en: https://github.com/AlfoVar/prueba-jikkosoft.gi
     ```bash
     node testTwoSum.js
 
-## Deberías ver:
+   Deberías ver:
 
- Iniciando pruebas de twoSum...
- Todas las pruebas pasaron
+    Iniciando pruebas de twoSum...
+    Todas las pruebas pasaron
 
 2. Ejecuta el sistema de biblioteca:
     ```bash
     node library.js
 
-## Deberías ver:
+   Deberías ver:
 
-Deberías ver mensajes de registro de libros, préstamos, etc.
+   Deberías ver mensajes de registro de libros, préstamos, etc.
 
 
  
